@@ -40,6 +40,7 @@ str   : String.  This is a reference to a collection of symbols.  We may think o
 
 Note that "10" is not the same as 10.  One is a string using symbols and the other refers to a numerical value.  
 
+If you feel like you need some more detailed information about variables, this is a good video to watch on Youtube: https://www.youtube.com/watch?v=LKFrQXaoSMQ
 
 ### 3 Tasks
 
